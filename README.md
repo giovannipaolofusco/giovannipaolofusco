@@ -10,6 +10,7 @@ Sviluppatore web a Fondi (LT). Costruisco **siti statici veloci per attività lo
 |---|---|---|
 | **Sito personale** | HTML, CSS e JS senza framework, build in Node, test automatici prima di ogni pubblicazione | [codice](https://github.com/giovannipaolofusco/sito-giovannipaolofusco) · [sito](https://giovannipaolofusco.it) |
 | **Demo: sito con pannello di modifica** | Il titolare cambia menu, orari ed eventi da un pannello; backup automatici | [codice](https://github.com/giovannipaolofusco/demo-pannello-git) · [demo](https://demo-pannello-git.pages.dev) |
+| **Demo: sito per studio medico** | Orari e avvisi dal pannello, IT/EN, nessun modulo con dati sanitari, nessun tracciamento | [codice](https://github.com/giovannipaolofusco/demo-studio-medico) · [demo](https://demo-studio-medico.pages.dev) |
 | **piazzapaese** | Piattaforma di eventi per il sud pontino, dall'idea al codice | [sito](https://piazzapaese.it) |
 
 ### Come lavoro
