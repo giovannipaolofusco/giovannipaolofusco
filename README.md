@@ -2,7 +2,9 @@
 
 Sviluppatore web a Fondi (LT). Costruisco **siti statici veloci per attività locali**: ristoranti, officine, studi, negozi. Il titolare li aggiorna da solo, senza database e senza canone mensile.
 
-*Web developer in Fondi, Italy. I build fast static websites for local businesses, which owners can update themselves with no database and no monthly fee.*
+Tengo anche **corsi pratici di AI per uffici e studi** del sud pontino, in sede: ChatGPT, Claude e automazioni d'ufficio. [Corsi e prezzi](https://giovannipaolofusco.it/formazione-ai/).
+
+*Web developer in Fondi, Italy. I build fast static websites for local businesses, which owners can update themselves with no database and no monthly fee. I also run hands-on AI training for offices and small firms.*
 
 ### Progetti da guardare
 
@@ -16,10 +18,10 @@ Sviluppatore web a Fondi (LT). Costruisco **siti statici veloci per attività lo
 ### Come lavoro
 
 - Siti statici in HTML, CSS e JavaScript, in italiano e inglese
-- Hosting su Netlify o Cloudflare Pages, deploy automatico da GitHub
+- Hosting su Cloudflare Pages o Netlify, deploy automatico da GitHub
 - Privacy e GDPR dall'inizio: niente tracciamento inutile, font e mappe ospitati in locale
 - Server Ubuntu personale con Docker, backup verificati e automazioni
 
 ### Contatti
 
-[giovannipaolofusco.it](https://giovannipaolofusco.it) · giovanni@giovannipaolofusco.it
+[giovannipaolofusco.it](https://giovannipaolofusco.it) · [info@giovannipaolofusco.it](mailto:info@giovannipaolofusco.it) · [WhatsApp](https://wa.me/393334919401)
